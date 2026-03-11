@@ -1,5 +1,5 @@
 [project]
-name = "learn_xyz_template"
+name = "agentic_memory_poc"
 version = "0.1.1"
 requires-python = ">=3.12,<4.0"
 dependencies = [
@@ -7,7 +7,7 @@ dependencies = [
 
 [tool.setuptools.packages.find]
 where = ["."]
-include = ["learn_xyz_template*"]
+include = ["agentic_memory_poc*"]
 exclude = [
 ]
 
