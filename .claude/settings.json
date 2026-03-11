@@ -20,7 +20,7 @@
             "Write(./README-cn.md)",
             "Write(./TICKET.md)",
             "Write(./CLAUDE.md)",
-            "Write(learn_xyz_template/**/*.py)",
+            "Write(agentic_memory_poc/**/*.py)",
             "Write(tests/**/*.py)",
             "Write(scripts/**/*.py)",
             "Read(========== Bash Section ==========)",

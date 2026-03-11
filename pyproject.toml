@@ -3,6 +3,9 @@ name = "agentic_memory_poc"
 version = "0.1.1"
 requires-python = ">=3.12,<4.0"
 dependencies = [
+    "boto3>=1.42.0,<1.43.0",
+    "boto-session-manager>=1.8.1,<2.0.0",
+    "s3pathlib>=2.3.6,<3.0.0",
 ]
 
 [tool.setuptools.packages.find]
